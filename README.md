@@ -1,12 +1,14 @@
 ## Mechanical engenieering. Researcher. Developer.
 
 <p> <a href="
-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/juliareach" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/grupoMISEs" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
 </p>
 
 ### Short bio
-Born in Uruguay (Montevideo, 1994), I graduated in Mechanical Engeneering from Univ. de la República (Facultad de Ingeniería UdelaR). I received my master's diploma structural Engineering defnidnning my thesis titualted: Implementation of a consistent co-rotational nonlinear dynamic formulation and application to modeling overhead transmission lines.
+Born in Uruguay (Montevideo, 1994), I graduated in Mechanical Engeneering from Facultad de Ingeniería (FIng) UdelaR. I received my master's diploma Structural Engineering defnidnning my thesis titualted: Implementation of a consistent co-rotational nonlinear dynamic formulation and application to modeling overhead transmission lines.
+
+I participate in the reserch group named Modelado e Identificación en Sólidos y EStructuras (MISEs) form FIng since 2018. The aim of this group is working on the development and application of mathematical and computational models for solving direct and inverse problems in structures and solids analysis.
 
 If you are interested dont hessitate to contact me at mvanzulli@fing.edu.uy
 
