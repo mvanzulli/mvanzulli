@@ -7,7 +7,8 @@
 ### Short bio
 Born in Uruguay (Montevideo, 1994), I graduated in Mechanical Engeneering from Facultad de Ingeniería (FIng) UdelaR. I received my master's diploma Structural Engineering defnidnning my thesis titualted: Implementation of a consistent co-rotational nonlinear dynamic formulation and application to modeling overhead transmission lines.
 
-I participate in the reserch group named Modelado e Identificación en Sólidos y EStructuras (MISEs) form FIng since 2018. The aim of this group is working on the development and application of mathematical and computational models for solving direct and inverse problems in structures and solids analysis.
+I participate in the reserch group named Modelado e Identificación en Sólidos y EStructuras (MISEs) form FIng since 2018. The aim of this group is working on the development and application of mathematical and computational models for solving direct and inverse problems in structures and solids analysis. I am enthusiast about anything related to computational structural analyisis sipecifically in open source code and try to spread awareness and importance of making science more accessible, inclusive and equitable.
+
 
 If you are interested dont hessitate to contact me at mvanzulli@fing.edu.uy
 
