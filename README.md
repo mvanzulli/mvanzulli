@@ -1,4 +1,4 @@
-## Mechanical engenieering. Researcher and Open Source developer.
+## Mechanical engineering. Researcher and Open Source developer.
 
 <p> <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
