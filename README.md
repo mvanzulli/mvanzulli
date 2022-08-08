@@ -1,8 +1,11 @@
 ## Mechanical engineering. Researcher and Open Source developer.
 
-<p> <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p>
   <a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/mafiavanzulli/">
+<a href="[https://www.linkedin.com/in/abhisheknaiidu/](https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/)">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+ <a href="https://www.instagram.com/mafiavanzulli/">
   <img align="left" alt="mauri's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/MauriVanzulli">
