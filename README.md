@@ -17,4 +17,4 @@ I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-
 [![Join the chat at https://gitter.im/onsas_/community](https://badges.gitter.im/onsas_/community.svg)](https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://github.com/ONSAS/ONSAS/blob/master/COPYING.txt)
 
-[![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvanzulli&show_icons=true&hide=issues,contribs&theme=radical)](https://github.com/mvanzulli/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvanzulli&layout=compact&theme=radical)](https://github.com/mvanzulli/github-readme-stats)
+[![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvanzulli&show_icons=true&hide=issues,contribs&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvanzulli&layout=compact&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats)
