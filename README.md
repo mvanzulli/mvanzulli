@@ -14,7 +14,23 @@ Feel free to contact me anytime at mvanzulli@fing.edu.uy
 ------
 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-source code for static/dynamic and linear/non-linear analysis of structures.
 
+### Skils
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+
+### Socials
+
+
+------
+
+}
+<b>My GitHub Stats</b>
+
 [![Join the chat at https://gitter.im/onsas_/community](https://badges.gitter.im/onsas_/community.svg)](https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://img.shields.io/badge/License-GPLv3-green.svg)](https://github.com/ONSAS/ONSAS/blob/master/COPYING.txt)
 
 [![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvanzulli&show_icons=true&hide=issues,contribs&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvanzulli&layout=compact&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats)
+
+<a href="http://www.github.com/ShreyaPrasad1209"><img src="https://activity-graph.herokuapp.com/graph?username=mvanzulli&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
