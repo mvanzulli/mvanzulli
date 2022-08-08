@@ -7,10 +7,6 @@
 </a>
 <a href="https://twitter.com/MauriVanzulli">
   <img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="[https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>  
 </p>
   
 ------
