@@ -17,7 +17,8 @@
 Born in Uruguay (Montevideo, 1994) and graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021. My thesis was titled: "Implementation of a consistent co-rotational nonlinear dynamic formulation and application to modeling overhead transmission lines". Nowadays I am a member of a local research group named "Modelling and Identification in Solids and Structures" (MISEs) created in 2018. The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
 
 I am enthusiast about anything related to Computational Structural Analysis, specifically in open source. Last but not least, I aim to spread awareness and to make science more accessible, inclusive and equitable. 
-  
+ 
+ 
 Feel free to contact me anytime at mvanzulli@fing.edu.uy
 
 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-source code for static/dynamic and linear/non-linear analysis of structures.
