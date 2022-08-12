@@ -31,7 +31,6 @@ I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-
 <a href="https://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/latex_logo_icon_145115.png" width="36" height="36" alt="Latex" /></a>
 <a href="https://en.wikipedia.org/wiki/Octave" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="36" height="36" alt="Octave" /></a>
 <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg" width="36" height="36" alt="Markdown" /></a>
-
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
