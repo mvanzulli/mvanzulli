@@ -1,4 +1,4 @@
-## Mechanical engineering. Researcher and Open Source developer.
+## Mechanical engineering. Open Source Computer Scicience.
 
 <p>
   <a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
@@ -18,20 +18,18 @@ Born in Uruguay (Montevideo, 1994) and graduated in Mechanical Engineering from 
 
 I am enthusiast about anything related to Computational Structural Analysis, specifically in open source. Last but not least, I aim to spread awareness and to make science more accessible, inclusive and equitable. 
  
- Feel free to contact me anytime at:
- <form action="mailto:mvanzulli@fing.edu.uy" method="GET">
-    <input name="subject" type="text" />
-    <textarea name="body"></textarea>
-    <input type="submit" value="Send" />
-</form>
+ 
+Feel free to contact me anytime at mvanzulli@fing.edu.uy
+
+<p align="left"> <a href="mailto::mvanzulli@fing.edu.uy" target="_blank" rel="noreferrer"><img src="https://mpng.subpng.com/20180409/yge/kisspng-email-computer-icons-club-atwater-message-envelope-mail-5acb084ad73e06.8695780515232553708817.jpg" width="36" height="36" alt="Mail" /></a>
 
 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-source code for static/dynamic and linear/non-linear analysis of structures.
 
 -----
 ### Learning and Skils
 <p align="left"> <a href="ttps://en.wikipedia.org/wiki/Julia" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png" width="36" height="36" alt="Julia" /></a>
-  <a href="ttps://en.wikipedia.org/wiki/CUDAC" target="_blank" rel="noreferrer"><img src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" width="36" height="36" alt="CUDC" /></a>
-<a href="ttps://en.wikipedia.org/wiki/Matlab" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
+  <a href="https://en.wikipedia.org/wiki/CUDAC" target="_blank" rel="noreferrer"><img src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" width="36" height="36" alt="CUDC" /></a>
+<a href="https://en.wikipedia.org/wiki/Matlab" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
 <a href="https://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/latex_logo_icon_145115.png" width="36" height="36" alt="Latex" /></a>
 <a href="https://en.wikipedia.org/wiki/Octave" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="36" height="36" alt="Octave" /></a>
 <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg" width="36" height="36" alt="Markdown" /></a>
