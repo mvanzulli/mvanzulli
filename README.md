@@ -18,8 +18,12 @@ Born in Uruguay (Montevideo, 1994) and graduated in Mechanical Engineering from 
 
 I am enthusiast about anything related to Computational Structural Analysis, specifically in open source. Last but not least, I aim to spread awareness and to make science more accessible, inclusive and equitable. 
  
- 
-Feel free to contact me anytime at mvanzulli@fing.edu.uy
+ Feel free to contact me anytime at:
+ <form action="mailto:mvanzulli@fing.edu.uy" method="GET">
+    <input name="subject" type="text" />
+    <textarea name="body"></textarea>
+    <input type="submit" value="Send" />
+</form>
 
 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-source code for static/dynamic and linear/non-linear analysis of structures.
 
