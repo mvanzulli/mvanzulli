@@ -26,17 +26,11 @@ I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-
 -----
 ### Learning and Skils
 <a href="ttps://en.wikipedia.org/wiki/CUDAC" target="_blank" rel="noreferrer"><img src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" width="36" height="36" alt="CUDC" /></a>
-<p align="left"> 
-<a href="ttps://en.wikipedia.org/wiki/Matlab" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
-<p align="left"> 
-<a href="ttps://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="36" height="36" alt="Latex" /></a>
-<p align="left">   
-
-<a href="https://en.wikipedia.org/wiki/Octave" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Gnu-octave-logo.svg" width="36" height="36" alt="Octave" /></a>
-<p align="left">
-<a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg" width="36" height="36" alt="Markdown" /></a>
-<p align="left">
-<a href="ttps://en.wikipedia.org/wiki/Julia" target="_blank" rel="noreferrer"><img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png" width="36" height="36" alt="Julia" /></a>
+<p align="left"> <a href="ttps://en.wikipedia.org/wiki/Matlab" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
+<p align="left"> <a href="ttps://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="36" height="36" alt="Latex" /></a>
+<p align="left"> <a href="https://en.wikipedia.org/wiki/Octave" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" width="36" height="36" alt="Octave" /></a>
+<p align="left"> <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" width="36" height="36" alt="Markdown" /></a>
+<p align="left"> <a href="ttps://en.wikipedia.org/wiki/Julia" target="_blank" rel="noreferrer"><img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-logo-color.png" width="36" height="36" alt="Julia" /></a>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
