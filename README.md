@@ -21,7 +21,8 @@ I am enthusiast about anything related to Computational Structural Analysis, spe
  
 Feel free to contact me anytime at mvanzulli@fing.edu.uy
 
-<p align="left"> <a href="mailto::mvanzulli@fing.edu.uy" target="_blank" rel="noreferrer"><img src="https://mpng.subpng.com/20180409/yge/kisspng-email-computer-icons-club-atwater-message-envelope-mail-5acb084ad73e06.8695780515232553708817.jpg" width="36" height="36" alt="Mail" /></a>
+<p align="left"> <a href="mailto::mvanzulli@fing.edu.uy" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/green-email-icon/green-email-icon-23.jpg" width="36" height="36" alt="Mail" /></a>
+
 
 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-source code for static/dynamic and linear/non-linear analysis of structures.
 
