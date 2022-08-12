@@ -29,8 +29,9 @@ I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-
 <p align="left"> 
 <a href="ttps://en.wikipedia.org/wiki/Matlab" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
 <p align="left"> 
-<a href="ttps://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:LaTeX_logo.svg" width="36" height="36" alt="Latex" /></a>
+<a href="ttps://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" width="36" height="36" alt="Latex" /></a>
 <p align="left">   
+
 <a href="https://en.wikipedia.org/wiki/Octave" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/File:Gnu-octave-logo.svg" width="36" height="36" alt="Octave" /></a>
 <p align="left">
 <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/Markdown#/media/File:Markdown-mark.svg" width="36" height="36" alt="Markdown" /></a>
