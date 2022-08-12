@@ -34,8 +34,6 @@ I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
-https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png
-https://upload.wikimedia.org/wikipedia/commons/3/37/Markdown-mark-solid.svg
 -----
 <b>My GitHub Stats</b>
 
