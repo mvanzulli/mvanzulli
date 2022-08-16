@@ -31,5 +31,5 @@ I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.m), an open-
 -----
 <b>My GitHub Stats</b>
 
-[![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvanzulli&show_icons=true&hide=issues,contribs&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvanzulli&layout=compact&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats)
+<p align="left"> [![Mauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvanzulli&show_icons=true&hide=issues,contribs&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvanzulli&layout=compact&theme=chartreuse-dark)](https://github.com/mvanzulli/github-readme-stats)
 
