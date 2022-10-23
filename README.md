@@ -6,7 +6,7 @@
 <a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
   
 ------
-### Hi there, :hand:
+### Hi there,
 Born in Uruguay and graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021. Nowadays I am a member of a local research group named "Modelling and Identification in Solids and Structures" (MISEs) created in 2018. The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
 
 I am enthusiast about anything related to inverse problems, applied machine learning, structural analysis. Last but not least, I aim to spread awareness about the paramount importance of developing (when it is possible) open-source projects. 
