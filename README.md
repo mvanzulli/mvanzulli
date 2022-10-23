@@ -1,4 +1,4 @@
-## Mechanical engineering. Open Source Computer Scientist.
+## Mechanical engineering. Open-Source Computer Scientist.
 
 <p><a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
@@ -6,10 +6,10 @@
 <a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
   
 ------
-### Short bio
-Born in Uruguay and graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021. My thesis was titled: "Implementation of a consistent co-rotational nonlinear dynamic formulation and application to modeling overhead transmission lines". Nowadays I am a member of a local research group named "Modelling and Identification in Solids and Structures" (MISEs) created in 2018. The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
+### Hi there, :hand:
+Born in Uruguay and graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021. Nowadays I am a member of a local research group named "Modelling and Identification in Solids and Structures" (MISEs) created in 2018. The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
 
-I am enthusiast about anything related to Computational Structural Analysis, specifically in open source. Last but not least, I aim to spread awareness and to make science more accessible, inclusive and equitable. 
+I am enthusiast about anything related to inverse problems, applied machine learning, structural analysis. Last but not least, I aim to spread awareness about the paramount importance of developing (when it is possible) open-source projects. 
  
  
 Feel free to contact me anytime at mvanzulli@fing.edu.uy:
