@@ -1,4 +1,4 @@
-## Mechanical engineering. Open-Source Computer Scientist.
+## Mechanical engineering. Computer Scientist.
 
 <p><a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
