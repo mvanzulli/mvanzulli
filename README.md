@@ -1,8 +1,7 @@
 ## Mechanical engineering. Computer Scientist.
 
 <p><a href="https://gitter.im/onsas_/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
-<a href="https://www.instagram.com/mafiavanzulli/"><img align="left" alt="mauri's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
+<a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Mauri's LinkedIN" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 <a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
   
 ------
