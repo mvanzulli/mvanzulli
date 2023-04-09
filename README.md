@@ -6,9 +6,12 @@
 
 🔭 I'm passionate about Inverse problems,Computational Mechanics, Biomechanics Deep Learning and Computer Vision. 
 
-👯 I'm interested in collaborating reach me out with an [email](mailto:mvanzulli@fing.edu.uy)! 
+👯 I'm interested in collaborating, for any idea drop me a line via [email](mailto:mvanzulli@fing.edu.uy).
 
 💭 I aim to spread awareness about the paramount importance of open-source projects in promoting transparency, cooperation, and reproducibility in computer science and software development.
+
+👉🏼 ***Connect with me on [LinkedIn](https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/ .*** <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Mauri's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+</a> 
 
 -----
 
@@ -20,16 +23,6 @@
  
 
 👨🏻‍💻 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.jl), an open-source code for static/dynamic and linear/non-linear analysis of structures.
-
------
-
-### Contact
-
-<p>
-<a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
-<a href="https://www.instagram.com/mafiavanzulli/"><img align="left" alt="mauri's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
-<a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-<p>
 
 -----
 
