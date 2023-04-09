@@ -16,7 +16,7 @@
 
 ### Bio
 
-🧠 I am a member of a local research group named "Modelling and Identification in Solids and Structures" (MISEs). The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
+🧠 I am a member of a local research group named "Modelling and Identification in Solids and Structures" ([MISEs](https://www.fing.edu.uy/es/iet/grupos/mises)). The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
 
 🎓 Graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021.
  
