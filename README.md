@@ -4,6 +4,7 @@
 <a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
   
 ------
+
 ### About
 
 🔭 I'm passionate about Inverse problems,Computational Mechanics, Biomechanics Deep Learning and Computer Vision. 
@@ -22,6 +23,7 @@
 👨🏻‍💻 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.jl), an open-source code for static/dynamic and linear/non-linear analysis of structures.
 
 -----
+
 ### Learning and skills
 <p align="left"> <a href="ttps://en.wikipedia.org/wiki/Julia" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png" width="36" height="36" alt="Julia" /></a>
   <a href="https://en.wikipedia.org/wiki/CUDAC" target="_blank" rel="noreferrer"><img src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" width="36" height="36" alt="CUDC" /></a>
