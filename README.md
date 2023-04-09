@@ -1,8 +1,5 @@
 ## Mechanical engineering. Computer Scientist.
-
-<a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
-<a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
-  
+ 
 ------
 
 ### About
@@ -13,6 +10,8 @@
 
 💭 I aim to spread awareness about the paramount importance of open-source projects in promoting transparency, cooperation, and reproducibility in computer science and software development.
 
+-----
+
 ### Bio
 
 🧠 I am a member of a local research group named "Modelling and Identification in Solids and Structures" (MISEs). The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
@@ -21,6 +20,13 @@
  
 
 👨🏻‍💻 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.jl), an open-source code for static/dynamic and linear/non-linear analysis of structures.
+
+-----
+
+### Contact
+
+<a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a> 
+<a href="https://twitter.com/MauriVanzulli"><img align="left" alt="Mauri Vanzulli | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 
 -----
 
