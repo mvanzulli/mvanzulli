@@ -4,7 +4,7 @@
 
 ### About
 
-🔭 I'm passionate about Inverse problems,Computational Mechanics, Biomechanics Deep Learning and Computer Vision. 
+🔭 I'm passionate about Computational Mechanics, Biomechanics, Deep Learning and Computer Vision. 
 
 👯 I'm interested in collaborating, for any idea drop me a line via [email](mailto:mvanzulli@fing.edu.uy).
 
