@@ -21,7 +21,7 @@
 🎓 Graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021.
  
 
-👨🏻‍💻 I'm one of the developers of [ONSAS](https://github.com/ONSAS/ONSAS.jl), an open-source code for static/dynamic and linear/non-linear analysis of structures.
+👨🏻‍💻 I'm one of the [ONSAS](https://github.com/ONSAS/) developers, an open-source community developing software for static/dynamic and linear/non-linear analysis of structures.
 
 -----
 
