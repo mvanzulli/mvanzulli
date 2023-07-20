@@ -1,4 +1,4 @@
-## Mechanical engineering. Computer Scientist.
+## Computer Scientist.
  
 ------
 
@@ -10,7 +10,7 @@
 
 💭 I aim to spread awareness about the paramount importance of open-source projects in promoting transparency, cooperation, and reproducibility in computer science and software development.
 
-👉🏼 Connect with me via <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="center" alt="Mauri's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/></a>.
+👉🏼 Connect with me via <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="center" alt="Mauri's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a>.
 
 -----
 
