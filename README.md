@@ -4,7 +4,7 @@
 
 ### About
 
-🔭 I'm passionate about Computational Mechanics, Biomechanics, Deep Learning and Computer Vision. 
+🔭 I'm passionate about Computational Mechanics, Machine Learning and Software Development.
 
 👯 I'm interested in collaborating, for any idea drop me a line via [email](mailto:mvanzulli@fing.edu.uy).
 
