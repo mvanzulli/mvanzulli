@@ -4,22 +4,13 @@
 
 ### About
 
-🔭 I'm passionate about Computational Mechanics, Machine Learning and Software Development.
+🔭 I'm passionate about Deep Learning, Computational Mechanics and Software Development.
 
 👯 I'm interested in collaborating, for any idea drop me a line via [email](mailto:mvanzulli@fing.edu.uy).
 
 💭 I aim to spread awareness about the paramount importance of open-source projects in promoting transparency, cooperation, and reproducibility in computer science and software development.
 
 👉🏼 Connect with me via <a href="https://www.linkedin.com/in/mauricio-vanzulli-b0a648224/"><img align="center" alt="Mauri's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/></a>.
-
------
-
-### Bio
-
-🧠 I am a member of a local research group named "Modelling and Identification in Solids and Structures" ([MISEs](https://www.fing.edu.uy/es/iet/grupos/mises)). The purpose of this group is to develop computational tools based on solid mathematical principles for solving direct and inverse problems in structures and solids analysis.
-
-🎓 Graduated in Mechanical Engineering from Facultad de Ingeniería (FING) UdelaR. I received my Master's degree in Structural Engineering in 2021.
- 
 
 👨🏻‍💻 I'm one of the [ONSAS](https://github.com/ONSAS/) developers, an open-source community developing software for static/dynamic and linear/non-linear analysis of structures.
 
