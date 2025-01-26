@@ -1,4 +1,4 @@
-## Computer Scientist.
+## IA Engineer.
  
 ------
 
@@ -17,7 +17,7 @@
 -----
 
 ### Learning and skills
-<p align="left"> <a href="ttps://en.wikipedia.org/wiki/Julia" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/J/julia-logo-DC9698BAF9-seeklogo.com.png" width="36" height="36" alt="Julia" /></a>
+<p align="left"> <a href="ttps://en.wikipedia.org/wiki/Julia" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" width="36" height="36" alt="Julia" /></a>
   <a href="https://en.wikipedia.org/wiki/CUDAC" target="_blank" rel="noreferrer"><img src="https://migocpp.files.wordpress.com/2018/03/badge-nvidia-cuda-cpp.png" width="36" height="36" alt="CUDC" /></a>
 <a href="https://en.wikipedia.org/wiki/Matlab" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="36" height="36" alt="Matlab" /></a>
 <a href="https://en.wikipedia.org/wiki/LaTex" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/latex_logo_icon_145115.png" width="36" height="36" alt="Latex" /></a>
