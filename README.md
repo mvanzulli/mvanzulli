@@ -6,7 +6,7 @@
 
 🔭 I'm passionate about Deep Learning, Computational Mechanics and Software Development.
 
-👯 I'm interested in collaborating, for any idea drop me a line via [email](mailto:mvanzulli@fing.edu.uy).
+👯 I'm interested in collaborating, for any idea drop me a line via [email](mailto:mcvanzulli@gmail.com).
 
 💭 I aim to spread awareness about the paramount importance of open-source projects in promoting transparency, cooperation, and reproducibility in computer science and software development.
 
